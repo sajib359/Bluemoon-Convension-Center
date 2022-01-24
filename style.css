@@ -1,0 +1,13 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.badges{
+    position: absolute;
+    background-color: red;
+    font-weight: 400;
+    padding: 10px;
+    top: -20px;  
+    right: 10px;
+    border-radius: 15px;
+}
